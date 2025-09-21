@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://bc0v01eq41ifb"]
+
+[ext_resource type="PackedScene" uid="uid://ds0eeau4ki2f0" path="res://assets/WoodLog.fbx" id="1_qx71u"]
+
+[node name="WoodLog" instance=ExtResource("1_qx71u")]
